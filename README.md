@@ -9,6 +9,7 @@ A Learning application for Braille that supports Greek language.
 
 [readthedocs](https://readthedocs.org/projects/brailleo/)
 
+
 **brailleo** is a lightweight Braille transcriber and translator. User-friendly and straightforward, with its target audience being as broad as it can get. A cross-platform software implemented with the immediate goal to be established as a Braille learning-aid feauturing Greek locale support. Mimicing the already widely known "special typewriters", it uses the keyboard as a means of delivering a free alternative of high quality. Its main features; accessibility and customizability.
 
 A Learning application for Braille that supports Greek language.
@@ -20,3 +21,4 @@ Team : CSD foss (https://foss.csd.auth.gr)
 Contributors : ...
 
 Licence : GPL ??
+
