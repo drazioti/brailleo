@@ -1,4 +1,5 @@
 # Number Input for corresponding Braille characters
+# for the Greek language
 
 ### Character
 α			1
@@ -9,7 +10,7 @@
 ζ			1356
 η			345
 θ			1456
-ι			 24
+ι			24
 κ			13
 λ			123
 μ			134
@@ -38,6 +39,7 @@
 ϋ			5 135
 ΰ			5 13456
 ώ			5 245
+
 ### Dipthong
 αι			126
 ει			146
@@ -47,6 +49,7 @@
 ευ			156
 ηυ			1256
 ου			136
+
 ### Numbers
 number indicator    	3456
 1			3456 1
@@ -59,24 +62,35 @@ number indicator    	3456
 8			3456 125
 9			3456 24
 0			3456 245
-### Punctiation
-.			256
+fullstop for 
+Numbers	    3
 ,			2
+
+### Punctiation
+.			256 (space after)
+, 9comma)	2 (space after)
+!			235 (space after)
 ;			26
 ?			236
-·			23
-:			25
-			5
-(...)			2356 2356
-!			235
+-      		36
+·			23 (space after)
+:			25 (space after)
+'			5
+(           2356 (space before)
+)           2356 (space after if a word follows)
+...		    666
 -			36
 +			2346
 /			34
+*           35 35
+{			12356 (space after and before)
+}           23456 (space after only if a word follows)
 %			25 1234
 ‰			25 1456
-caps			46
+caps		    	46
 number indicator	3456
-
 
 Braille ASCII (U+2800 to U+238F)
 ⠀⠁⠂⠃⠄⠅⠆⠇⠈⠉⠊⠋⠌⠍⠎⠏⠐⠑⠒⠓⠔⠕⠖⠗⠘⠙⠚⠛⠜⠝⠞⠟⠠⠡⠢⠣⠤⠥⠦⠧⠨⠩⠪⠫⠬⠭⠮⠯⠰⠱⠲⠳⠴⠵⠶⠷⠸⠹⠺⠻⠼⠽⠾⠿
+
+	
