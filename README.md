@@ -15,12 +15,3 @@ Contributors : ...
 Licence : GPL ??
 
 [readthedocs](https://readthedocs.org/projects/brailleo/)
-
-
-Supporting platoforms : Linux, Windows
-
-Team : CSD foss (https://foss.csd.auth.gr)
-
-Contributors : ...
-
-Licence : GPL ??
