@@ -7,6 +7,7 @@
 
 [![Travis Status](https://travis-ci.com/name-placeholder/hangman.png)](https://travis-ci.com/CSD-FOSS-Team/brailleo)
 
+
 A Learning application for Braille that supports Greek language.
 
 Supporting platoforms : Linux, Windows
