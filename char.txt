@@ -68,7 +68,7 @@ Numbers	    3
 
 ### Punctiation
 .			256 (space after)
-, 9comma)	2 (space after)
+, (comma)	2 (space after)
 !			235 (space after)
 ;			26
 ?			236
